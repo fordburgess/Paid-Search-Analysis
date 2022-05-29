@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x6f5DW1OOQSGHASYAti8+U52isea8GV6yDXQsVmDrecfaoEoAovmjNjbjovX05eacqwH4VCsrizxN8bSSPgm7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FordBurgess\\source\\repos\\Automation\\PaidSearchAnalysis\\PaidSearchAnalysis\\PaidSearchAnalysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FordBurgess\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\FordBurgess\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
